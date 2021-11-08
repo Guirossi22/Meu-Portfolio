@@ -1,0 +1,59 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://cdn.beacons.ai/user_content/dFloYvRioadJowuM58yADctr7Zw1/background_luisfelipedesign.png?t=1620356447408");
+    /* background-color: url("https://cdn.beacons.ai/user_content/dFloYvRioadJowuM58yADctr7Zw1/background_luisfelipedesign.png?t=1620356447408"); */
+    color: rgb(218, 218, 218);
+    font-family: 'Karla', sans-serif;
+}
+
+.fonteGrande {
+    font-size: 1.5rem;
+}
+
+.fonteMedia {
+    font-size: 1.2rem;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-alignitens-center {
+    align-items: center;
+}
+.flex-justify-around {
+    justify-content: space-around;
+}
+
+.imgPerfil {
+    width: 120px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    background-color: #54217a33;
+}
+
+.link {
+    background-color: #54217a22;
+    width: 400px;
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
