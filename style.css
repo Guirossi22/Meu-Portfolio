@@ -72,17 +72,20 @@ a, a:visited {
 }
 
 .link {
-    background-color: #54217a22;
+    background-color: #0076b67e;
     width: 400px;
     text-align: center;
     margin-top: 30px;
     padding: 20px 40px;
     border-radius: 50px;
     cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.45);
 }
 
+
+
 .link:hover {
-    background-color: #54217a33;
+    background-color: #00000033;
 }
 
 .icons {
