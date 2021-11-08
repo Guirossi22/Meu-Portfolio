@@ -107,6 +107,10 @@ a, a:visited {
     height: 50px;
 }
 
+.icons i:hover {
+    color: black;
+}
+
 footer {
     height: 100px;
     display: flex;
